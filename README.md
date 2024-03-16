@@ -1,2 +1,1 @@
-# web-app
-CardanoThings Sveltekit Web-App
+# CardanoThings Sveltekit Web-App
